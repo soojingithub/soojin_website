@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+.CFUserTextEncoding
+.zsh_history
+.zsh_sessions/
+
+# VSCode
+.vscode/
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Build directories
+dist/
+build/
