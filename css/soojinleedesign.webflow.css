@@ -441,7 +441,7 @@ figcaption {
 }
 
 .navigation-item {
-  opacity: .6;
+  opacity: 1;
   letter-spacing: 1px;
   text-transform: uppercase;
   background-color: #fff;
